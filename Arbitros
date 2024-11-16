@@ -1,0 +1,28 @@
+{
+  "_id": "4512",
+  "nombre": "Alejandro Rojas",
+  "edad": 40,
+  "cedula": 1030670938,
+  "nacionalidad": "Colombiano"
+}
+{
+  "_id": "7824",
+  "nombre": "Andres Arias",
+  "edad": 36,
+  "cedula": 1022338632,
+  "nacionalidad": "Argentina"
+}
+{
+  "_id": "8267",
+  "nombre": "Dereck Medina",
+  "edad": 42,
+  "cedula": 5250522,
+  "nacionalidad": "Venezolana"
+}
+{
+  "_id": "7698",
+  "nombre": "Cristian Niño",
+  "edad": 43,
+  "cedula": 864590751,
+  "nacionalidad": "Chilena"
+}
