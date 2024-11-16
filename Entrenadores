@@ -1,0 +1,18 @@
+{
+  "_id": "1278",
+  "nombre": "Andres Motta",
+  "nacionalidad": "Portugues",
+  "cedula": "76387554",
+  "equipo": "The class",
+  "experiencia": "18 años",
+  "estrategia": "Defensiva"
+}
+{
+  "_id": "5697",
+  "nombre": "Nelson Cruz",
+  "nacionalidad": "Español",
+  "cedula": "76892071",
+  "equipo": "Los Time",
+  "experiencia": "16 años",
+  "estrategia": "Equilibrada"
+}
