@@ -1,0 +1,38 @@
+{
+  "_id": "70420",
+  "equipoLocal": "Los Time",
+  "equipoVisitante": "The Class",
+  "fecha": "2024-02-23",
+  "resultado": "Equipo visitante Ganador",
+  "puntosLocal": 85,
+  "puntosVisitante": 89,
+  "estadisticas": {
+    "rebotesLocal": 45,
+    "rebotesVisitante": 48,
+    "asistenciasLocal": 20,
+    "asistenciasVisitante": 22
+  },
+  "arbitros": [
+    "Dereck Medina",
+    "Alejandro Rojas"
+  ]
+}
+{
+  "_id": "85367",
+  "equipoLocal": "Los Time",
+  "equipoVisitante": "The Class",
+  "fecha": "2024-04-12",
+  "resultado": "Empate",
+  "puntosLocal": 82,
+  "puntosVisitante": 85,
+  "estadisticas": {
+    "rebotesLocal": 55,
+    "rebotesVisitante": 52,
+    "asistenciasLocal": 18,
+    "asistenciasVisitante": 21
+  },
+  "arbitros": [
+    "Andres arias",
+    "Cristian Niño"
+  ]
+}
