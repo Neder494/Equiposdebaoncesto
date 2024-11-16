@@ -1,0 +1,54 @@
+{
+  "_id": "8754",
+  "nombre": "Daniel Pérez",
+  "edad": 27,
+  "nacionalidad": "Peruano",
+  "equipo": "Los time",
+  "Cuidad": "lima",
+  "cedula": "5697541"
+}
+{
+  "_id": "9284",
+  "nombre": "Oscar Peña",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "equipo": "The class",
+  "Cuidad": "Bogota",
+  "cedula": "73764298"
+}
+{
+  "_id": "9834",
+  "nombre": "Ricardo Quintero",
+  "edad": 25,
+  "nacionalidad": "ecuatoriano",
+  "equipo": "Los time",
+  "Cuidad": "Quito",
+  "cedula": "9872342"
+}
+{
+  "_id": "76475",
+  "nombre": "Carlos Guerro",
+  "edad": 24,
+  "nacionalidad": "Argentina",
+  "equipo": "The class",
+  "cuidad": "Buenos Aires",
+  "Cedula": "78953328"
+}
+{
+  "_id": "847",
+  "nombre": "Fernando Silva",
+  "edad": 24,
+  "nacionalidad": "Colombiano",
+  "equipo": "The Class",
+  "Cuidad": "Cali",
+  "cedula": "8234078231"
+}
+{
+  "_id": "872",
+  "nombre": "Jhonatan Morales",
+  "edad": 26,
+  "nacionalidad": "Chileno",
+  "equipo": "Los time",
+  "Cuidad": "Santiago",
+  "cedula": "7625348"
+}
