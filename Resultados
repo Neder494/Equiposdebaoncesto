@@ -1,0 +1,14 @@
+{
+  "_id": "287",
+  "equipo": "The Class",
+  "juegosGanados": 1,
+  "juegosPerdidos": 0,
+  "puntosAFavor": 3
+}
+{
+  "_id": "658",
+  "equipo": "Los Time",
+  "juegosGanados": 0,
+  "juegosPerdidos": 1,
+  "puntosAFavor": 0
+}
